@@ -1,4 +1,4 @@
-# Procedo GKD 💻
+# Proceso GKD 💻
 
 _Este notebook es el resultado de la programación de todo un proceso de decubrimiento de conocimiento en geodatos con el fin de detectar patrones de movimiento de un target._
 
