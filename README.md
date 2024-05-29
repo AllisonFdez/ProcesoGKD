@@ -22,10 +22,6 @@ _Los items desarrollados son:_
 Python v3.7.8
 jupyter notebook
 ```
-
-## ✒️Autora:
-
-**Allison E. Fernández Lobo ⚡**
 ```
 Máster Universitario en Software y Sistemas.
 Universidad Politécnica de Madrid.
